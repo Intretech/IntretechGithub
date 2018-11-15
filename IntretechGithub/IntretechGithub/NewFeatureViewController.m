@@ -16,6 +16,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    NSLog(@"NEW FEATURE ADDED");
     // Do any additional setup after loading the view.
 }
 
