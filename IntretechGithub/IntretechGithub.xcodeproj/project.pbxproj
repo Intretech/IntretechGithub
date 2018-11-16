@@ -16,6 +16,7 @@
 		1D0A6EF2219D92DE006167A2 /* IntretechGithubTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D0A6EF1219D92DE006167A2 /* IntretechGithubTests.m */; };
 		1D0A6EFD219D92DE006167A2 /* IntretechGithubUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D0A6EFC219D92DE006167A2 /* IntretechGithubUITests.m */; };
 		1D0A6F0C219D9DFA006167A2 /* NewFeatureViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D0A6F0B219D9DFA006167A2 /* NewFeatureViewController.m */; };
+		1D0FD0D6219E788900EAFD3E /* Feature1ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D0FD0D5219E788900EAFD3E /* Feature1ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		1D0A6EFE219D92DE006167A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1D0A6F0A219D9DFA006167A2 /* NewFeatureViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NewFeatureViewController.h; sourceTree = "<group>"; };
 		1D0A6F0B219D9DFA006167A2 /* NewFeatureViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NewFeatureViewController.m; sourceTree = "<group>"; };
+		1D0FD0D4219E788900EAFD3E /* Feature1ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Feature1ViewController.h; sourceTree = "<group>"; };
+		1D0FD0D5219E788900EAFD3E /* Feature1ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Feature1ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				1D0A6EDC219D92CA006167A2 /* ViewController.m */,
 				1D0A6F0A219D9DFA006167A2 /* NewFeatureViewController.h */,
 				1D0A6F0B219D9DFA006167A2 /* NewFeatureViewController.m */,
+				1D0FD0D4219E788900EAFD3E /* Feature1ViewController.h */,
+				1D0FD0D5219E788900EAFD3E /* Feature1ViewController.m */,
 				1D0A6EDE219D92CA006167A2 /* Main.storyboard */,
 				1D0A6EE1219D92DD006167A2 /* Assets.xcassets */,
 				1D0A6EE3219D92DE006167A2 /* LaunchScreen.storyboard */,
@@ -267,6 +272,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1D0FD0D6219E788900EAFD3E /* Feature1ViewController.m in Sources */,
 				1D0A6EDD219D92CA006167A2 /* ViewController.m in Sources */,
 				1D0A6EE8219D92DE006167A2 /* main.m in Sources */,
 				1D0A6F0C219D9DFA006167A2 /* NewFeatureViewController.m in Sources */,
