@@ -15,6 +15,7 @@
 		1D0A6EE8219D92DE006167A2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D0A6EE7219D92DE006167A2 /* main.m */; };
 		1D0A6EF2219D92DE006167A2 /* IntretechGithubTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D0A6EF1219D92DE006167A2 /* IntretechGithubTests.m */; };
 		1D0A6EFD219D92DE006167A2 /* IntretechGithubUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D0A6EFC219D92DE006167A2 /* IntretechGithubUITests.m */; };
+		1D0FD0D3219E6F4D00EAFD3E /* FeatureViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D0FD0D2219E6F4D00EAFD3E /* FeatureViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		1D0A6EF8219D92DE006167A2 /* IntretechGithubUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IntretechGithubUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D0A6EFC219D92DE006167A2 /* IntretechGithubUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IntretechGithubUITests.m; sourceTree = "<group>"; };
 		1D0A6EFE219D92DE006167A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1D0FD0D1219E6F4D00EAFD3E /* FeatureViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FeatureViewController.h; sourceTree = "<group>"; };
+		1D0FD0D2219E6F4D00EAFD3E /* FeatureViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FeatureViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				1D0A6ED9219D92CA006167A2 /* AppDelegate.m */,
 				1D0A6EDB219D92CA006167A2 /* ViewController.h */,
 				1D0A6EDC219D92CA006167A2 /* ViewController.m */,
+				1D0FD0D1219E6F4D00EAFD3E /* FeatureViewController.h */,
+				1D0FD0D2219E6F4D00EAFD3E /* FeatureViewController.m */,
 				1D0A6EDE219D92CA006167A2 /* Main.storyboard */,
 				1D0A6EE1219D92DD006167A2 /* Assets.xcassets */,
 				1D0A6EE3219D92DE006167A2 /* LaunchScreen.storyboard */,
@@ -263,6 +268,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1D0A6EDD219D92CA006167A2 /* ViewController.m in Sources */,
+				1D0FD0D3219E6F4D00EAFD3E /* FeatureViewController.m in Sources */,
 				1D0A6EE8219D92DE006167A2 /* main.m in Sources */,
 				1D0A6EDA219D92CA006167A2 /* AppDelegate.m in Sources */,
 			);
