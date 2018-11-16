@@ -17,7 +17,11 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"Print First log");
+<<<<<<< HEAD
     //New Changes
+=======
+    //sdfgsdfgsdfgs
+>>>>>>> DeveloperBranch
     // Do any additional setup after loading the view, typically from a nib.
 }
 
